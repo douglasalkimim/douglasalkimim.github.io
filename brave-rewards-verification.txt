@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: douglasalkimim.github.io
+Token: e370c75e3743af3e274cbfdd07d21387badaa9a67fcc5bda471724591e24f417
